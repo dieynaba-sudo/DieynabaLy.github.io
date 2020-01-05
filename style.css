@@ -188,6 +188,10 @@ section > div{
     background-color: #4B8;
     border-radius: 5px;
 }
+.c80{
+    width: 80%;
+    background-color: #8B8;
+}
 .comp2{
     display: flex;
     flex-flow: row wrap;
@@ -218,7 +222,7 @@ section > div{
 
 /*VERSION BUREAU DU CV*/
 @media screen and (min-width: 980px){
-}
+
 .exp:hover{
     color:#00AA00;
 }
